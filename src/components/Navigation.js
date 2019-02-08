@@ -6,7 +6,7 @@ const Navigation = props => {
     <nav className="navbar navbar-expand-lg bg-white mt-lg-3">
     <div className="container px-3">
 
-      <a href="#" className="navbar-brand order-lg-2 flex-shrink-0 text-xlarge font-weight line-height-1 py-3 mr-0">Views from Dom</a>
+      <a href="#" className="navbar-brand order-lg-2 flex-shrink-0 text-xlarge font-weight line-height-1 py-3 mr-0">Everyone Deserves A Chance</a>
 
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target=".blog-nav">
         <span className="navbar-toggler-icon"></span>
