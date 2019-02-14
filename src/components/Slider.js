@@ -11,12 +11,12 @@ const Slider = props => {
                     <div className="blog-slider-overlay"></div>
                     <div className="blog-slider-slide">
                       <div className="blog-slider-content">
-                        <div className="text-white mb-2">Travel</div>
+                        <div className="text-white mb-2">Homelessness</div>
                         <h2 className="blog-slider-caption mb-3">
-                          <a href="#" className="link-animated text-white">The Luxury Of Traveling With Yacht Charter Companies</a>
+                          <a href="#" className="link-animated text-white">REASONS PEOPLE BECOME HOMELESS</a>
                         </h2>
                         <div className="text-white text-tiny mb-4">
-                          <a href="#" className="text-white">KENNETH FRAZIER</a> &nbsp;\&nbsp; MAY 21, 2018
+                          <a href="#" className="text-white">Lina Georg</a> &nbsp;\&nbsp; MAY 21, 2018
                         </div>
                       </div>
                     </div>
@@ -26,12 +26,12 @@ const Slider = props => {
                     <div className="blog-slider-overlay"></div>
                     <div className="blog-slider-slide">
                       <div className="blog-slider-content">
-                        <div className="text-white mb-2">Lifestyle</div>
+                        <div className="text-white mb-2">Types of Homelessness</div>
                         <h2 className="blog-slider-caption mb-3">
-                          <a href="#" className="link-animated text-white">Travel Health Useful Medical Information For Good Health Be</a>
+                          <a href="#" className="link-animated text-white">There are three types of homelessness – chronic, transitional, and episodic</a>
                         </h2>
                         <div className="text-white text-tiny mb-4">
-                          <a href="#" className="text-white">ALICE HAMPTON</a> &nbsp;\&nbsp; MAY 5, 2018
+                          <a href="#" className="text-white">Vincent Louise</a> &nbsp;\&nbsp; MAY 5, 2018
                         </div>
                       </div>
                     </div>
@@ -41,12 +41,12 @@ const Slider = props => {
                     <div className="blog-slider-overlay"></div>
                     <div className="blog-slider-slide">
                       <div className="blog-slider-content">
-                        <div className="text-white mb-2">Tips & Tricks</div>
+                        <div className="text-white mb-2">Housing And Homelessness</div>
                         <h2 className="blog-slider-caption mb-3">
-                          <a href="#" className="link-animated text-white">What Makes A Hotel Boutique</a>
+                          <a href="#" className="link-animated text-white">Housing represents the fundamental base-solution to the problem of homelessness.</a>
                         </h2>
                         <div className="text-white text-tiny mb-4">
-                          <a href="#" className="text-white">ARTHUR DUNCAN</a> &nbsp;\&nbsp; APRIL 19, 2018
+                          <a href="#" className="text-white">Matia Daniel</a> &nbsp;\&nbsp; APRIL 19, 2018
                         </div>
                       </div>
                     </div>
@@ -56,12 +56,12 @@ const Slider = props => {
                     <div className="blog-slider-overlay"></div>
                     <div className="blog-slider-slide">
                       <div className="blog-slider-content">
-                        <div className="text-white mb-2">Traveling</div>
+                        <div className="text-white mb-2">Taking Action</div>
                         <h2 className="blog-slider-caption mb-3">
-                          <a href="#" className="link-animated text-white">Getting Cheap Airfare For Last Minute Travel</a>
+                          <a href="#" className="link-animated text-white">Check out 10 ways you can support the work of the National Coalition for the Homeless.</a>
                         </h2>
                         <div className="text-white text-tiny mb-4">
-                          <a href="#" className="text-white">BELLE ROSS</a> &nbsp;\&nbsp; APRIL 9, 2018
+                          <a href="#" className="text-white">Lana Abel</a> &nbsp;\&nbsp; APRIL 9, 2018
                         </div>
                       </div>
                     </div>
@@ -71,12 +71,12 @@ const Slider = props => {
                     <div className="blog-slider-overlay"></div>
                     <div className="blog-slider-slide">
                       <div className="blog-slider-content">
-                        <div className="text-white mb-2">Lifestyle</div>
+                        <div className="text-white mb-2">Need Help?</div>
                         <h2 className="blog-slider-caption mb-3">
-                          <a href="#" className="link-animated text-white">Get Around Easily With A New York Limousine Service</a>
+                          <a href="#" className="link-animated text-white">Find preventive or emergency assistance programs in your community</a>
                         </h2>
                         <div className="text-white text-tiny mb-4">
-                          <a href="#" className="text-white">MAY GIBSON</a> &nbsp;\&nbsp; MARCH 28, 2018
+                          <a href="#" className="text-white">Gabriel Regin</a> &nbsp;\&nbsp; MARCH 28, 2018
                         </div>
                       </div>
                     </div>

@@ -7,22 +7,22 @@ const SubNav = props => {
                 <div class="container px-3">
                   <div class="nav navbar-nav flex-shrink-1 flex-row align-items-center mx-lg-auto">
                     <a class="nav-item nav-link mr-2 ml-lg-2" href="#">
-                      Lifestyle
+                      Homelessness
                     </a>
                     <a class="nav-item nav-link mx-2" href="#">
-                      Travel
+                      About ESAC
                     </a>
                     <a class="nav-item nav-link mx-2" href="#">
-                      Social
+                      Issues
                     </a>
                     <a class="nav-item nav-link mx-2" href="#">
-                      Culture
+                      Campaigns
                     </a>
                     <a class="nav-item nav-link mx-2" href="#">
-                      About
+                      Taking Action
                     </a>
                     <a class="nav-item nav-link mx-2" href="#">
-                      Contact Me
+                      Resources
                     </a>
                   </div>
                 </div>

@@ -7,7 +7,7 @@ const footer = props => {
               <div className="row">
 
                 <div className="col-lg-3 pr-lg-4 pb-5">
-                  <a href="#" className="footer-text d-block text-large font-weight-bolder mb-3">Blog.</a>
+                  <a href="#" className="footer-text d-block text-large font-weight-bolder mb-3">Everyone Deserves A Chance</a>
 
                   <a href="#" className="footer-link d-block pb-2">Lifestyle</a>
                   <a href="#" className="footer-link d-block pb-2">Travel</a>
